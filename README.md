@@ -1,1 +1,1 @@
-ALX is very very tough and hard
+ALX is very very tough 
